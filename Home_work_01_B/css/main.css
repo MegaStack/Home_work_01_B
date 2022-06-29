@@ -1,0 +1,12 @@
+table {
+  width: 100%;
+  border: 3px solid #c6c6c6;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+table tr td {
+  border: 2px solid #c6c6c6;
+  padding: 1rem;
+  font-size: 1.5rem;
+}
